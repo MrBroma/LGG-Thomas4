@@ -1,1 +1,2 @@
-Hi everyone, I'm adding sentences to the file !./DATA/DATA.TXT
+Hi everyone, I'm adding sentences to the file !
+HI EVERYONE, I'M ADDING SENTENCES TO THE FILE !

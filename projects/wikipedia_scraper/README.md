@@ -9,7 +9,7 @@ This project is a Python script designed to scrape information about political l
 1. Clone the repository:
 
 ```bash
-git clone git@github.com:MrBroma/wikipedia-websraper.git
+git clone git@github.com:MrBroma/wikipedia-websraper-final.git
 cd leaders-scraper
 
 ```

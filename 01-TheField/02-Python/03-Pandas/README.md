@@ -1,6 +1,6 @@
 # Pandas Tutorial
 
-![pandas_logo](https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png)
+<img src="https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png"  width="40%" height="40%">
 
 Pandas is a software library that is quite fast, powerful, flexible and easy to use. It's open source and built on top of the Python programming language. Its main purposes are data analysis and manipulation.
 

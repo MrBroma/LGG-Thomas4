@@ -17,7 +17,7 @@ Each with the set of services, facilities and prices.
 
 Render is a cloud platform that simplifies the deployment of web applications, APIs, databases, and static sites. It provides an all-in-one solution for developers to deploy, manage, and scale their applications with minimal configuration and effort. Render offers various services, including web services, static sites, background workers, cron jobs, and managed databases.
 
-**Why is it intersting ?**
+**Why is it interesting ?**
 
 - Easy Deployment: Deploy web applications and static sites directly from your Git repositories with automatic builds and deploys on every push.
 - Scalability: Automatically scale your applications based on traffic and resource usage.
@@ -90,7 +90,7 @@ Another possibility to deploy an application, and what will mostly be used in bi
 - Microsoft Azure (AZ)
 - Google Cloud Platform (GCP) 
 
-Each of those gives you the possibility to manager your own Linux machine and expose it to the internet.
+Each of those gives you the possibility to manage your own Linux machine and expose it to the internet.
 
 So you can run API, ML models, ...
 

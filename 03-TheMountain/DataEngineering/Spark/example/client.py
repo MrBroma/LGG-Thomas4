@@ -23,3 +23,4 @@ query = df.writeStream.outputMode("append") \
     .format("console")\
     .start()\
     .awaitTermination()
+
